@@ -8,15 +8,13 @@ Este repositório serve como um portfólio para armazenar e demonstrar meus proj
 
 ## Organização do Repositório
 
-1. **Python**: Pasta contendo exercícios relacionados à análise exploratória e estatística com a linguagem, incluindo visualizações básicas e estatísticas descritivas.
-   
-2. **Machine Learning**: Esta seção contém exercícios que abordam conceitos e técnicas de machine learning, como classificação, regressão e clustering.
-  
-3. **R**: Pasta contendo exercícios relacionados à análise exploratória e estatística com a linguagem, incluindo visualizações básicas e estatísticas descritivas.
+1. **Python**: Pasta contendo exercícios relacionados à análise exploratória e estatística com a linguagem, incluindo visualizações básicas e estatísticas descritivas. Também exoste uma sessão aqui apenas com cases utilizando Machine Learning, com técnicas de classificação e regressão.
+     
+2. **R**: Pasta contendo exercícios relacionados à análise exploratória e estatística com a linguagem, incluindo visualizações básicas e estatísticas descritivas.
 
-4. **SQL**: Exercícios relacionados a consultas SQL para extração e manipulação de dados em bancos de dados relacionais.
+3. **SQL**: Exercícios relacionados a consultas SQL para extração e manipulação de dados em bancos de dados relacionais.
 
-5. **Power BI**: Exercícios de visualização de dados utilizando Power BI, uma ferramenta popular para criação de dashboards e relatórios interativos.
+4. **Power BI**: Exercícios de visualização de dados utilizando Power BI, uma ferramenta popular para criação de dashboards e relatórios interativos.
 
 ## Contribuição
 
